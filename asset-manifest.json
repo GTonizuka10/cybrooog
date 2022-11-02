@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://nourhomsi.net/react/static/css/main.a0470a10.css",
+    "main.js": "https://nourhomsi.net/react/static/js/main.cd0cc359.js",
+    "static/js/787.32bac1e0.chunk.js": "https://nourhomsi.net/react/static/js/787.32bac1e0.chunk.js",
+    "static/media/banner-bg.jpg": "https://nourhomsi.net/react/static/media/banner-bg.f41cb78948354a14694e.jpg",
+    "static/media/popular-08.jpg": "https://nourhomsi.net/react/static/media/popular-08.126dd98013f11709e815.jpg",
+    "static/media/clip-04.jpg": "https://nourhomsi.net/react/static/media/clip-04.f8a52b63ce2c72e3626d.jpg",
+    "static/media/popular-02.jpg": "https://nourhomsi.net/react/static/media/popular-02.4ccab5053dc3ac9400fb.jpg",
+    "static/media/popular-01.jpg": "https://nourhomsi.net/react/static/media/popular-01.d591ee7091c3349e3472.jpg",
+    "static/media/popular-04.jpg": "https://nourhomsi.net/react/static/media/popular-04.b68fb4322ccb2976873d.jpg",
+    "static/media/clip-02.jpg": "https://nourhomsi.net/react/static/media/clip-02.cdeda10232699818b045.jpg",
+    "static/media/popular-07.jpg": "https://nourhomsi.net/react/static/media/popular-07.bbef6817bf6ac3dcdb80.jpg",
+    "static/media/popular-03.jpg": "https://nourhomsi.net/react/static/media/popular-03.1c8955f99df2b3b94391.jpg",
+    "index.html": "https://nourhomsi.net/react/index.html",
+    "main.a0470a10.css.map": "https://nourhomsi.net/react/static/css/main.a0470a10.css.map",
+    "main.cd0cc359.js.map": "https://nourhomsi.net/react/static/js/main.cd0cc359.js.map",
+    "787.32bac1e0.chunk.js.map": "https://nourhomsi.net/react/static/js/787.32bac1e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0470a10.css",
+    "static/js/main.cd0cc359.js"
+  ]
+}
